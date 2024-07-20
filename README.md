@@ -10,7 +10,7 @@
 <br/>
 
 <h3>Sinopse</h3>
-<p>Marie está presa em uma situação horrível. Ela está sendo constantemente atormentada por seus colegas de classe e regularmente molestada por seu professor. Sem ter a quem recorrer, ela se vê pedindo ajuda sobrenatural a um dos demônios dos Sete Mistérios de sua escola. Tudo o que ela deseja é a morte de seus cruéis colegas e professor. Até onde Marie estará disposta a ir para se libertar de seu inferno?</p>
+<p>Marie agora assumiu um assento entre os Youkais da Escola. Ainda assim, nem tudo são flores no seu novo cotidiano escolar. Novos personagens e revelações dão continuidade e expandem o universo apresentado em Higanbana - Dai Ichi Ya.</p>
 <br/>
 
 <h3>Progresso da tradução - Higanbana no Saku Yoru ni - A Segunda Noite</h3>
