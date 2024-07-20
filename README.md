@@ -20,7 +20,7 @@
     <li>Capítulo 2: O Ceifador do Décimo Terceiro Andar - 0%</li>
     <li>Capítulo 3: Bem-vindo ao Mundo do Espelho - 0%</li>
     <li>Capítulo 4: O Retrato dos Meninos - 0%</li>
-    <li>Capítulo 5: Um Cardo da Vingança - 0%</li>
+    <li>Capítulo 5: Minha melhor amiga - 0%</li>
     <li>Capítulo 6: Um Cardo da Vingança - 0%</li>
     <li>Capítulo 7: Antes que as Higanbanas Floresçam - 0%</li>
     <li>Epílogo: Depois da escola - 0%</li>
