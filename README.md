@@ -10,7 +10,7 @@
 <br/>
 
 <h3>Sinopse</h3>
-<p>Marie agora assumiu um assento entre os Youkais da Escola. Ainda assim, nem tudo são flores no seu novo cotidiano escolar. Novos personagens e revelações dão continuidade e expandem o universo apresentado em Higanbana - Dai Ichi Ya.</p>
+<p>Marie agora assumiu um assento entre os Youkais da Escola. Ainda assim, nem tudo são flores no seu novo cotidiano escolar. Novos personagens e revelações dão continuidade e expandem o universo apresentado em <a href="https://kikachangames.github.io/higanbana1-pt-br/">Higanbana - Dai Ichi Ya</a>.</p>
 <br/>
 
 <h3>Progresso da tradução - Higanbana no Saku Yoru ni - A Segunda Noite</h3>
