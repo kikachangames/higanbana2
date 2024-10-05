@@ -17,7 +17,7 @@
 
 <ul>
     <li>Capítulo 1: O Festival Lunar - 100%</li>
-    <li>Capítulo 2: O Ceifador do Décimo Terceiro Andar - 0%</li>
+    <li>Capítulo 2: O Ceifador do Décimo Terceiro Degrau - 0%</li>
     <li>Capítulo 3: Bem-vindo ao Mundo do Espelho - 0%</li>
     <li>Capítulo 4: O Retrato dos Meninos - 0%</li>
     <li>Capítulo 5: Minha melhor amiga - 0%</li>
