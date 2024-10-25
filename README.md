@@ -51,7 +51,6 @@
 <h3>0Mateus</h3>
 <img src="https://kikachangames.github.io/higanbana1-pt-br/mateus.png">
 <p>Revisão</p>
-</p>
 <br/>
 
 <h3>Ceuipsolon</h3>
