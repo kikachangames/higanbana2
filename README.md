@@ -45,19 +45,18 @@
 
 <h3>Manolo-chan</h3>
 <img src="https://kikachangames.github.io/air/manolo.png">
-<p><b>Líder de projeto, tradução, programação e edição de imagens</b></p>
+<p>Líder de projeto, tradução, programação e edição de imagens</p>
 <br/>
 
 <h3>0Mateus</h3>
 <img src="https://kikachangames.github.io/higanbana1-pt-br/mateus.png">
-<p><b>Revisão</b></p>
+<p>Revisão</p>
 </p>
 <br/>
 
 <h3>Ceuipsolon</h3>
 <img src="https://kikachangames.github.io/higanbana1-pt-br/ceuipsolon.png">
-<p><b>Revisão</b></p>
-<p>Olá, meu nome é Ceuipsolon (ou Palpitando no YT). Gosto de explorar o mundo de prosas proporcionadas por VNs que hoje são meu novo mundo de interesse.</p>
+<p>Revisão</p>
 <br/>
 
 
