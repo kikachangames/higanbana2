@@ -17,7 +17,7 @@
 
 <ul>
     <li>Capítulo 1: O Festival Lunar - 100%</li>
-    <li>Capítulo 2: O Ceifador do Décimo Terceiro Degrau - 50%</li>
+    <li>Capítulo 2: O Ceifador do 13º Degrau - 100%</li>
     <li>Capítulo 3: Bem-vindo ao Mundo do Espelho - 0%</li>
     <li>Capítulo 4: O Retrato dos Meninos - 0%</li>
     <li>Capítulo 5: Minha melhor amiga - 0%</li>
@@ -36,6 +36,8 @@
 <p>Menu principal</p>
 <img src="https://kikachangames.github.io/higanbana2/01.png">
 <p>Capítulo 1: O Festival Lunar</p>
+<img src="https://kikachangames.github.io/higanbana2/izanami.png">
+<p>Capítulo 2: O Ceifador do 13º Degrau</p>
 <br/>
 <br/>
 
@@ -75,6 +77,6 @@
 <p><b>Em breve!</b></p>
 
 <hr>
-<p><small>Última atualização: 15/10/2024.</small></p>
+<p><small>Última atualização: 25/10/2024.</small></p>
 <p><small>2024 - <a href="https://kikachangames.github.io/projetos/">Projetos</a> - <a href="https://kikachan-games.itch.io/" target="_blank">kikachan-games</a> - <a href="https://twitter.com/kikachangames/" target="_blank">X</a> - <a href="https://discord.gg/jsm8yKtu2E" target="_blank">Discord</a></small></p>
 
