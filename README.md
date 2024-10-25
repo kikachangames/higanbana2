@@ -36,7 +36,7 @@
 <p>Menu principal</p>
 <img src="https://kikachangames.github.io/higanbana2/01.png">
 <p>Capítulo 1: O Festival Lunar</p>
-<img src="https://kikachangames.github.io/higanbana2/izanami.png">
+<img src="https://kikachangames.github.io/higanbana2/02.png">
 <p>Capítulo 2: O Ceifador do 13º Degrau</p>
 <br/>
 <br/>
