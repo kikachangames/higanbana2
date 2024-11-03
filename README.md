@@ -18,7 +18,7 @@
 <ul>
     <li>Capítulo 1: O Festival Lunar - 100%</li>
     <li>Capítulo 2: O Ceifador do 13º Degrau - 100%</li>
-    <li>Capítulo 3: Bem-vindo ao Mundo do Espelho - 25%</li>
+    <li>Capítulo 3: Bem-vindo ao Mundo do Espelho - 100%</li>
     <li>Capítulo 4: O Retrato dos Meninos - 0%</li>
     <li>Capítulo 5: Minha melhor amiga - 0%</li>
     <li>Capítulo 6: Um Cardo da Vingança - 0%</li>
@@ -38,6 +38,9 @@
 <p>Capítulo 1: O Festival Lunar</p>
 <img src="https://kikachangames.github.io/higanbana2/02.png">
 <p>Capítulo 2: O Ceifador do 13º Degrau</p>
+<img src="https://kikachangames.github.io/higanbana2/03.png">
+<p>Capítulo 3: Bem-vindo ao Mundo do Espelho</p>
+
 <br/>
 <br/>
 
