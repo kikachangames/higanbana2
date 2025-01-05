@@ -58,7 +58,7 @@
 <br/>
 
 <h3>Ceuipsolon</h3>
-<img src="https://kikachangames.github.io/higanbana1-pt-br/ceuipsolon.png">
+<img src="https://kikachangames.github.io/air/ceuipsolon.png">
 <p>Revisão</p>
 <br/>
 
