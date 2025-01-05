@@ -75,8 +75,6 @@
 </div>
 <br/>
 </div>
-</div>
-
 
 <h3>Agradecimentos</h3>
 <p>Kyougaru e Marshmelio (Android port)</p>
