@@ -59,7 +59,7 @@
 <img src="https://kikachangames.github.io/higanbana2/0mateus.png">
 </div>
 <div style="display:inline-block;">
-  <h3>Ceuipsolon</h3>
+  <h3>0Mateus</h3>
     <p>Revisão e Quality Check</p>
 <br/></div>
 </div>
@@ -72,7 +72,6 @@
    <p>Revisão e Quality Check</p>
 <br/></div>
 </div>
-
 
 
 <h3>Agradecimentos</h3>
