@@ -13,14 +13,14 @@
 <p>Marie agora assumiu um assento entre os Youkais da Escola. Ainda assim, nem tudo são flores no seu cotidiano escolar. Novos personagens e revelações dão continuidade e expandem o universo apresentado em <a href="https://kikachangames.github.io/higanbana1-pt-br/">Higanbana - Dai Ichi Ya</a>.</p>
 <br/>
 
-<h3>Progresso total da tradução: 50%</h3>
+<h3>Progresso total da tradução: 60%</h3>
 
 <ul>
     <li>Capítulo 1: O Festival Lunar - 100%</li>
     <li>Capítulo 2: O Ceifador do 13º Degrau - 100%</li>
     <li>Capítulo 3: Bem-vindo ao Mundo do Espelho - 100%</li>
     <li>Capítulo 4: O Retrato dos Meninos - 100%</li>
-    <li>Capítulo 5: Minha Melhor Amiga - 40%</li>
+    <li>Capítulo 5: Minha Melhor Amiga - 100%</li>
     <li>Capítulo 6: Um Cardo da Vingança - 0%</li>
     <li>Capítulo 7: Antes que as Higanbanas Floresçam - 0%</li>
     <li>Epílogo: Depois da Escola - 0%</li>
@@ -77,6 +77,6 @@
 <p><b>Em breve!</b></p>
 
 <hr>
-<p><small>Última atualização: 27/12/2024.</small></p>
-<p><small>2024 - <a href="https://kikachangames.github.io/projetos/">Projetos</a> - <a href="https://kikachan-games.itch.io/" target="_blank">kikachan-games</a> - <a href="https://twitter.com/kikachangames/" target="_blank">X</a> - <a href="https://discord.gg/jsm8yKtu2E" target="_blank">Discord</a></small></p>
+<p><small>Última atualização: 05/01/2025.</small></p>
+<p><small>Kikachan Games (Desde 2024) <a href="https://kikachangames.github.io/projetos/">Projetos</a> - <a href="https://twitter.com/kikachangames/" target="_blank">X</a> - <a href="https://discord.gg/jsm8yKtu2E" target="_blank">Discord</a> - <a href="https://kikachan-games.itch.io/" target="_blank">Itch</a></small></p>
 
