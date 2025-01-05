@@ -43,7 +43,6 @@
 <img src="https://kikachangames.github.io/higanbana2/renoir.png">
 <p>Capítulo 4: O Retrato dos Meninos</p>
 <br/>
-<br/>
 
 <h3>Equipe</h3>
 <div>
@@ -55,15 +54,26 @@
   <p>Tradução, edição de imagens e programação</p>
 </div>
   <br/>
-  
+
+<div style="display:inline-block;vertical-align:top;">
+<img src="https://kikachangames.github.io/higanbana2/0mateus.png">
+</div>
+<div style="display:inline-block;">
+  <h3>Ceuipsolon</h3>
+    <p>Revisão e Quality Check</p>
+<br/></div>
+</div>
+
 <div style="display:inline-block;vertical-align:top;">
 <img src="https://kikachangames.github.io/air/ceuipsolon.png">
 </div>
 <div style="display:inline-block;">
   <h3>Ceuipsolon</h3>
-    <p>Edição de imagens e revisão</p>
+   <p>Revisão e Quality Check</p>
 <br/></div>
 </div>
+
+
 
 <h3>Agradecimentos</h3>
 <p>Kyougaru e Marshmelio (Android port)</p>
