@@ -63,8 +63,8 @@
 <div style="display:inline-block;">
   <h3>0Mateus</h3>
     <p>Revisão e Quality Check</p>
-<br/></div>
 </div>
+<br/>
 
 <div style="display:inline-block;vertical-align:top;">
 <img src="https://kikachangames.github.io/air/ceuipsolon.png">
@@ -72,7 +72,9 @@
 <div style="display:inline-block;">
   <h3>Ceuipsolon</h3>
    <p>Revisão e Quality Check</p>
-<br/></div>
+</div>
+<br/>
+</div>
 </div>
 
 
