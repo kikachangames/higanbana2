@@ -42,6 +42,8 @@
 <p>Capítulo 3: Bem-vindo ao Mundo do Espelho</p>
 <img src="https://kikachangames.github.io/higanbana2/renoir.png">
 <p>Capítulo 4: O Retrato dos Meninos</p>
+<img src="https://kikachangames.github.io/higanbana2/pacto.png">
+<p>Capítulo 5: Minha Melhor Amiga</p>
 <br/>
 
 <h3>Equipe</h3>
