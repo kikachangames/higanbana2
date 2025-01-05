@@ -45,23 +45,25 @@
 <br/>
 <br/>
 
-<h3>Membros do projeto</h3>
-
-<h3>Manolo-chan</h3>
+<h3>Equipe</h3>
+<div>
+<div style="display:inline-block;vertical-align:top;">
 <img src="https://kikachangames.github.io/air/manolo.png">
-<p>Líder de projeto, tradução, programação e edição de imagens</p>
-<br/>
-
-<h3>0Mateus</h3>
-<img src="https://kikachangames.github.io/higanbana1-pt-br/mateus.png">
-<p>Revisão</p>
-<br/>
-
-<h3>Ceuipsolon</h3>
+</div>
+<div style="display:inline-block;">
+<h3>Manolo-chan</h3>
+  <p>Tradução, edição de imagens e programação</p>
+</div>
+  <br/>
+  
+<div style="display:inline-block;vertical-align:top;">
 <img src="https://kikachangames.github.io/air/ceuipsolon.png">
-<p>Revisão</p>
-<br/>
-
+</div>
+<div style="display:inline-block;">
+  <h3>Ceuipsolon</h3>
+    <p>Edição de imagens e revisão</p>
+<br/></div>
+</div>
 
 <h3>Agradecimentos</h3>
 <p>Kyougaru e Marshmelio (Android port)</p>
