@@ -3,7 +3,6 @@
 <br/>
 <img src="https://kikachangames.github.io/higanbana2/higan2.jpg">
 <br/>
-<br/>
 
 <h3>As flores implacáveis desabrocham na calada da noite</h3>
 <p>Nesta página você poderá acompanhar o progresso da tradução, para a língua portuguesa, da sound novel <a href="https://vndb.org/v8832" target="_blank"> Higanbana no Saku Yoru ni - Dai Ni Ya</a>, lançada pela 07th Expansion em 2011.</p>
