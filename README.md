@@ -20,7 +20,7 @@
     <li>Capítulo 3: Bem-vindo ao Mundo do Espelho - 100%</li>
     <li>Capítulo 4: O Retrato dos Meninos - 100%</li>
     <li>Capítulo 5: Minha Melhor Amiga - 100%</li>
-    <li>Capítulo 6: Um Cardo da Vingança - 0%</li>
+    <li>Capítulo 6: Um Cardo da Vingança - 35%</li>
     <li>Capítulo 7: Antes que as Higanbanas Floresçam - 0%</li>
     <li>Epílogo: Depois da Escola - 0%</li>
 </ul>
