@@ -39,10 +39,12 @@
 <p>Capítulo 2: O Ceifador do 13º Degrau</p>
 <img src="https://kikachangames.github.io/higanbana2/03.png">
 <p>Capítulo 3: Bem-vindo ao Mundo do Espelho</p>
-<img src="https://kikachangames.github.io/higanbana2/renoir.png">
+<img src="https://kikachangames.github.io/higanbana2/04.png">
 <p>Capítulo 4: O Retrato dos Meninos</p>
-<img src="https://kikachangames.github.io/higanbana2/pacto.png">
+<img src="https://kikachangames.github.io/higanbana2/05.png">
 <p>Capítulo 5: Minha Melhor Amiga</p>
+<img src="https://kikachangames.github.io/higanbana2/06.png">
+<p>Capítulo 6: Um Cardo da Vingança</p>
 <br/>
 
 <h3>Equipe</h3>
@@ -90,6 +92,6 @@
 <p><b>Em breve!</b></p>
 
 <hr>
-<p><small>Última atualização: 05/01/2025.</small></p>
+<p><small>Última atualização: 23/01/2025.</small></p>
 <p><small>Kikachan Games (Desde 2024) <a href="https://kikachangames.github.io/projetos/">Projetos</a> - <a href="https://twitter.com/kikachangames/" target="_blank">X</a> - <a href="https://discord.gg/jsm8yKtu2E" target="_blank">Discord</a> - <a href="https://kikachan-games.itch.io/" target="_blank">Itch</a></small></p>
 
