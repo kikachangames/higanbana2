@@ -30,7 +30,6 @@
 <p>A ser anunciado.</p>
 <br/>
 
-<h3>Imagens</h3>
 <img src="https://kikachangames.github.io/higanbana2/higan2_menu.png">
 <p>Menu principal</p>
 <img src="https://kikachangames.github.io/higanbana2/01.png">
