@@ -12,7 +12,7 @@
 <p>Marie agora assumiu um assento entre os Youkais da Escola. Ainda assim, nem tudo são flores no seu cotidiano escolar. Novos personagens e revelações dão continuidade e expandem o universo apresentado em <a href="https://kikachangames.github.io/higanbana1-pt-br/">Higanbana - Dai Ichi Ya</a>.</p>
 <br/>
 
-<h3>Progresso total da tradução: 70%</h3>
+<h3>Progresso total da tradução: 75%</h3>
 
 <ul>
     <li>Capítulo 1: O Festival Lunar - 100%</li>
@@ -20,7 +20,7 @@
     <li>Capítulo 3: Bem-vindo ao Mundo do Espelho - 100%</li>
     <li>Capítulo 4: O Retrato dos Meninos - 100%</li>
     <li>Capítulo 5: Minha Melhor Amiga - 100%</li>
-    <li>Capítulo 6: Um Cardo da Vingança - 50%</li>
+    <li>Capítulo 6: Um Cardo da Vingança - 75%</li>
     <li>Capítulo 7: Antes que as Higanbanas Floresçam - 0%</li>
     <li>Epílogo: Depois da Escola - 0%</li>
 </ul>
