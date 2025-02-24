@@ -12,7 +12,7 @@
 <p>Marie agora assumiu um assento entre os Youkais da Escola. Ainda assim, nem tudo são flores no seu cotidiano escolar. Novos personagens e revelações dão continuidade e expandem o universo apresentado em <a href="https://kikachangames.github.io/higanbana1-pt-br/">Higanbana - Dai Ichi Ya</a>.</p>
 <br/>
 
-<h3>Progresso total da tradução: 80%</h3>
+<h3>Progresso total da tradução: 85%</h3>
 
 <ul>
     <li>Capítulo 1: O Festival Lunar - 100%</li>
