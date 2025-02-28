@@ -12,7 +12,7 @@
 <p>Marie agora assumiu um assento entre os Youkais da Escola. Ainda assim, nem tudo são flores no seu cotidiano escolar. Novos personagens e revelações dão continuidade e expandem o universo apresentado em <a href="https://kikachangames.github.io/higanbana1-pt-br/">Higanbana - Dai Ichi Ya</a>.</p>
 <br/>
 
-<h3>Progresso total da tradução: 90%</h3>
+<h3>Progresso total da tradução: 100%</h3>
 
 <ul>
     <li>Capítulo 1: O Festival Lunar - 100%</li>
@@ -22,7 +22,7 @@
     <li>Capítulo 5: Minha Melhor Amiga - 100%</li>
     <li>Capítulo 6: Um Cardo da Vingança - 100%</li>
     <li>Capítulo 7: Antes que as Higanbanas Floresçam - 100%</li>
-    <li>Epílogo: Depois da Escola - 0%</li>
+    <li>Epílogo: Depois da Escola - 100%</li>
 </ul>
 <br/>
 
@@ -44,6 +44,11 @@
 <p>Capítulo 5: Minha Melhor Amiga</p>
 <img src="https://kikachangames.github.io/higanbana2/06.png">
 <p>Capítulo 6: Um Cardo da Vingança</p>
+<img src="https://kikachangames.github.io/higanbana2/06.png">
+<p>Capítulo 7: Antes que as Higanbanas Floresçam</p>
+<img src="https://kikachangames.github.io/higanbana2/07.png">
+<p>Epílogo: Depois da Escola</p>
+<img src="https://kikachangames.github.io/higanbana2/08.png">
 <br/>
 
 <h3>Equipe</h3>
@@ -91,6 +96,6 @@
 <p><b>Em breve!</b></p>
 
 <hr>
-<p><small>Última atualização: 26/02/2025.</small></p>
+<p><small>Última atualização: 28/02/2025.</small></p>
 <p><small>Kikachan Games (Desde 2024) <a href="https://kikachangames.github.io/projetos/">Projetos</a> - <a href="https://twitter.com/kikachangames/" target="_blank">X</a> - <a href="https://discord.gg/jsm8yKtu2E" target="_blank">Discord</a> - <a href="https://kikachan-games.itch.io/" target="_blank">Itch</a></small></p>
 
