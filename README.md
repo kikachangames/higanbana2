@@ -44,11 +44,10 @@
 <p>Capítulo 5: Minha Melhor Amiga</p>
 <img src="https://kikachangames.github.io/higanbana2/06.png">
 <p>Capítulo 6: Um Cardo da Vingança</p>
-<img src="https://kikachangames.github.io/higanbana2/06.png">
-<p>Capítulo 7: Antes que as Higanbanas Floresçam</p>
 <img src="https://kikachangames.github.io/higanbana2/07.png">
-<p>Epílogo: Depois da Escola</p>
+<p>Capítulo 7: Antes que as Higanbanas Floresçam</p>
 <img src="https://kikachangames.github.io/higanbana2/08.png">
+<p>Epílogo: Depois da Escola</p>
 <br/>
 
 <h3>Equipe</h3>
