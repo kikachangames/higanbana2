@@ -95,7 +95,7 @@
 <p><b>Atenção:</b> Certifique-se de ter uma cópia do jogo para aplicar a tradução.<br/> Instruções para instalação estão no arquivo LEIAME, incluído no patch.<br/>
 Clique no botão abaixo para fazer o download.</p>
 
-<a href="https://github.com/user-attachments/files/19407125/Higanbana-2-PT-BR.zip" target="_blank"><img src="https://kikachangames.github.io/higanbana2/bt_download2.png"></a>
+<a href="https://github.com/kikachangames/higanbana2/releases/latest/download/Higanbana-2-PT-BR.zip" target="_blank"><img src="https://kikachangames.github.io/higanbana2/bt_download2.png"></a>
 <br/>
 <br/>
 
