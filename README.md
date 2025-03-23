@@ -90,7 +90,7 @@
 <p><a href="https://07th-expansion.net" target="_blank">07th Expansion</a></p>
 <br/>
 
-<h3>Download (liberado a partir da meia-noite)</h3>
+<h3>Download</h3>
 
 <p><b>Atenção:</b> Certifique-se de ter uma cópia do jogo para aplicar a tradução.<br/> Instruções para instalação estão no arquivo LEIAME, incluído no patch.<br/>
 Clique no botão abaixo para fazer o download.</p>
